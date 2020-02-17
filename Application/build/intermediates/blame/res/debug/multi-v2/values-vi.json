@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\IT\\work\\camera\\custom\\Camera2Basic-panoma\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-vi\\values-vi.xml",
+            "map": [
+                {
+                    "source": "E:\\IT\\gradle_home\\.gradle\\caches\\transforms-2\\files-2.1\\b10d974ba8b444faf866fc4a658ef006\\support-compat-27.0.2\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1958",
+                        "endColumns": "100",
+                        "endOffsets": "2054"
+                    }
+                },
+                {
+                    "source": "E:\\IT\\gradle_home\\.gradle\\caches\\transforms-2\\files-2.1\\8a1bafd3a6784dc29e2a0f1f4e2f437b\\appcompat-v7-27.0.2\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,219,327,436,520,623,742,819,896,980,1084,1193,1294,1399,1513,1618,1775,1874",
+                        "endColumns": "113,107,108,83,102,118,76,76,83,103,108,100,104,113,104,156,98,83",
+                        "endOffsets": "214,322,431,515,618,737,814,891,975,1079,1188,1289,1394,1508,1613,1770,1869,1953"
+                    }
+                }
+            ]
+        }
+    ]
+}

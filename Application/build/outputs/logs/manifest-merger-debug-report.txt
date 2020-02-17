@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:support-v13:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\32185d788d3b89080e16495be83a8fca\support-v13-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\837d37ed317b9dade88e848b207abb6d\support-v4-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\f44d97c18a23250009a37378dded324f\cardview-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\8a1bafd3a6784dc29e2a0f1f4e2f437b\appcompat-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\f6991f10ae5ddcec02bf65d7d29eb785\support-media-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\f3ab528f82c1c1ec4b0a54f9bee567ea\support-fragment-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\fda5b9117db595323eba2bcdbe8eabe1\support-core-utils-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\7a426a23ff8f9f9a49c8cb89cbdc301c\animated-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\ad2586c63e1296267cad7fd6a8d318b9\support-core-ui-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\7fc65963524651aea2aee0756d485e7d\support-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\b10d974ba8b444faf866fc4a658ef006\support-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\36057acd24d8ef41985ac98e7416eb82\runtime-1.0.3\AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:19:5-47
+	xmlns:android
+		ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:24:19-67
+application
+ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:26:5-38:19
+	android:label
+		ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:29:9-45
+activity#com.example.android.camera2basic.CameraActivity
+ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:31:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml
+INJECTED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\32185d788d3b89080e16495be83a8fca\support-v13-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\32185d788d3b89080e16495be83a8fca\support-v13-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\837d37ed317b9dade88e848b207abb6d\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\837d37ed317b9dade88e848b207abb6d\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\f44d97c18a23250009a37378dded324f\cardview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\f44d97c18a23250009a37378dded324f\cardview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\8a1bafd3a6784dc29e2a0f1f4e2f437b\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\8a1bafd3a6784dc29e2a0f1f4e2f437b\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\f6991f10ae5ddcec02bf65d7d29eb785\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\f6991f10ae5ddcec02bf65d7d29eb785\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\f3ab528f82c1c1ec4b0a54f9bee567ea\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\f3ab528f82c1c1ec4b0a54f9bee567ea\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\fda5b9117db595323eba2bcdbe8eabe1\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\fda5b9117db595323eba2bcdbe8eabe1\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\7a426a23ff8f9f9a49c8cb89cbdc301c\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\7a426a23ff8f9f9a49c8cb89cbdc301c\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\ad2586c63e1296267cad7fd6a8d318b9\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\ad2586c63e1296267cad7fd6a8d318b9\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\7fc65963524651aea2aee0756d485e7d\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\7fc65963524651aea2aee0756d485e7d\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\b10d974ba8b444faf866fc4a658ef006\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\b10d974ba8b444faf866fc4a658ef006\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\36057acd24d8ef41985ac98e7416eb82\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] E:\IT\gradle_home\.gradle\caches\transforms-2\files-2.1\36057acd24d8ef41985ac98e7416eb82\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml
+INJECTED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml
+		ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml
+		ADDED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\IT\work\camera\custom\Camera2Basic-panoma\Application\src\main\AndroidManifest.xml

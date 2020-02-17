@@ -1,0 +1,39 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\IT\\work\\camera\\custom\\Camera2Basic-panoma\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "E:\\IT\\gradle_home\\.gradle\\caches\\transforms-2\\files-2.1\\f44d97c18a23250009a37378dded324f\\cardview-v7-27.0.2\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "2646",
+                        "endLines": "39",
+                        "endColumns": "12",
+                        "endOffsets": "2791"
+                    }
+                },
+                {
+                    "source": "E:\\IT\\gradle_home\\.gradle\\caches\\transforms-2\\files-2.1\\8a1bafd3a6784dc29e2a0f1f4e2f437b\\appcompat-v7-27.0.2\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
+                    }
+                }
+            ]
+        }
+    ]
+}
